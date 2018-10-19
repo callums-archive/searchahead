@@ -22,6 +22,6 @@ document.addEventListener("DOMContentLoaded", function(){
 });
 ```
 
-![ScreenShot 1](https://i.imgur.com/hAL1Hv5.png?1)
-
 ![ScreenShot 2](https://i.imgur.com/7gQaMH5.png)
+
+![ScreenShot 1](https://i.imgur.com/hAL1Hv5.png?1)
