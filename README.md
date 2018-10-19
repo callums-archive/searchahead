@@ -4,13 +4,13 @@ simple bootstrap-only replacement for typeahead
 # Fiddle
 Feel Free to Fiddle: https://jsfiddle.net/howzitcal/euaogw12/
 
+# Implementation
 ```html
 <div class="form-group">
   <label for="findUser">Search Users</label>
   <input type="text" class="form-control" placeholder="eg. howzitcal" name="findUser" id="findUser">
 </div>
 ```
-# Implementation
 
 ```javascript
 document.addEventListener("DOMContentLoaded", function(){
