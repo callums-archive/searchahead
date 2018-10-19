@@ -1,6 +1,9 @@
 # searchahead
 simple bootstrap-only replacement for typeahead
 
+# Fiddle
+Feel Free to Fiddle: https://jsfiddle.net/Lpnqx2kh/
+
 ```html
 <div class="form-group">
   <label for="findUser">Search Users</label>
