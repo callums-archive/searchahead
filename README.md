@@ -10,6 +10,7 @@ Feel Free to Fiddle: https://jsfiddle.net/howzitcal/euaogw12/
   <input type="text" class="form-control" placeholder="eg. howzitcal" name="findUser" id="findUser">
 </div>
 ```
+# Implementation
 
 ```javascript
 document.addEventListener("DOMContentLoaded", function(){
@@ -21,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function(){
   });
 });
 ```
-
+# Screenshots
 ![ScreenShot 2](https://i.imgur.com/7gQaMH5.png)
 
 ![ScreenShot 1](https://i.imgur.com/hAL1Hv5.png?1)
