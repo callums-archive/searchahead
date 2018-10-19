@@ -2,7 +2,7 @@
 simple bootstrap-only replacement for typeahead
 
 # Fiddle
-Feel Free to Fiddle: https://jsfiddle.net/Lpnqx2kh/
+Feel Free to Fiddle: https://jsfiddle.net/howzitcal/euaogw12/
 
 ```html
 <div class="form-group">
