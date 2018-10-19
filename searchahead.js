@@ -1,3 +1,10 @@
+/*!
+ * searchahead v1: Bootstrap only typeahead replacement
+ * (c) 2018 Callum Fleming
+ * MIT License
+ * https://github.com/howzitcal/searchahead
+ */
+
 // constructor
 var searchahead = function(el, settings) {
   // get the text element and make it contenteditable
