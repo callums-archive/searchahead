@@ -21,3 +21,7 @@ document.addEventListener("DOMContentLoaded", function(){
   });
 });
 ```
+
+![ScreenShot 1](https://imgur.com/hAL1Hv5)
+
+![ScreenShot 2](https://imgur.com/7gQaMH5)
