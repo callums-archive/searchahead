@@ -1,5 +1,5 @@
 # searchahead
-simple bootstrap-only replacement for typeahead
+simple bootstrap-only replacement for typeahead solely written in javascript(no jquery)
 
 # Fiddle
 Feel Free to Fiddle: https://jsfiddle.net/howzitcal/euaogw12/
