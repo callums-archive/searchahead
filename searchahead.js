@@ -1,5 +1,5 @@
 /*!
- * searchahead v1: Bootstrap only typeahead replacement
+ * searchahead v1.0.1: Bootstrap only typeahead replacement
  * (c) 2018 Callum Fleming
  * MIT License
  * https://github.com/howzitcal/searchahead
@@ -105,7 +105,7 @@ searchahead.prototype = {
         root.clearAciveDropDownState();
         root.text_element.value = root.typed;
         root.generateSuggestion(root.typed, root.resultObj);
-      }
+      };
     }
   },
 
@@ -137,7 +137,10 @@ searchahead.prototype = {
 
     // remove dropdown if the user moves away
     this.text_element.onblur = function() {
-      root.clearDropdown();
+      var hovered = document.querySelectorAll(":hover");
+      if (hovered[hovered.length - 1].classList[0] !== 'dropdown-item') {
+        root.clearDropdown();
+      }
     }
 
     // add dropdown if the user focuses
